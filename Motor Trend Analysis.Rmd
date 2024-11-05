@@ -1,6 +1,6 @@
 ---
 title: "Motor Trend MPG Data Analysis"
-author: "Aprameya Nayak"
+author: "D Aditi"
 date: "30th October 2024"
 output:
   pdf_document: default
